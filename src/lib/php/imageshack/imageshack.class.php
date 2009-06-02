@@ -1,6 +1,6 @@
 <?php
     
-    require_once('multipost.php');
+    require_once('multipost.class.php');
 
     class ImageShackUploader
     {
