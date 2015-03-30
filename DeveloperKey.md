@@ -1,0 +1,3 @@
+In order to start using your own personalized version of YFrog or ImageShack APIs, you must first [Request a key](http://stream.imageshack.us/xmlapi/).  In your email, please specify the number of unique visitors to your site per day and include a description of how you intend to use the ImageShack or YFrog XML API.
+
+The key is just a string which identifies your application. Do not share it with anybody.
